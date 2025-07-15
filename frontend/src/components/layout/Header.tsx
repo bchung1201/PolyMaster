@@ -93,13 +93,6 @@ export function Header() {
               )}
             </Button>
 
-            {/* Notifications */}
-            <Button variant="ghost" size="sm" className="w-9 h-9 p-0 relative">
-              <Bell className="w-4 h-4" />
-              <Badge className="absolute -top-1 -right-1 w-4 h-4 p-0 text-xs bg-red-500 text-white">
-                3
-              </Badge>
-            </Button>
 
             {/* User Profile */}
             <div className="relative">

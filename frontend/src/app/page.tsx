@@ -138,7 +138,7 @@ export default function Dashboard() {
                 </Link>
               </Button>
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10" asChild>
-                <Link href="/ai-coach">
+                <Link href="/trading-analysis">
                   <Brain className="w-5 h-5 mr-2" />
                   AI Analysis
                 </Link>
