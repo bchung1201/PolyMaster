@@ -15,11 +15,21 @@ frontend/dist/
 
 # Environment variables
 .env
+.env.*
+*.env
+keys.env
 .env.local
 .env.production
 .env.staging
 backend/.env
+backend/.env.*
 frontend/.env.local
+frontend/.env.*
+
+# API Keys and secrets
+**/keys.env
+**/*.key
+**/config/secrets.json
 
 # Logs
 *.log
