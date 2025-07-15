@@ -7,7 +7,7 @@ import { Header } from '@/components/layout/Header'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'PolyAgent Web - AI-Powered Prediction Markets',
+  title: 'PolyMaster - AI-Powered Prediction Markets',
   description: 'Trade prediction markets with AI-powered insights and real-time analysis',
 }
 
